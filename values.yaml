@@ -1,0 +1,3 @@
+fernetKey: RDd4T1pXMUJ6Y28zTk1tc1NSVFFNdHRadjNLVjgzS08=
+webserverSecretKey: RDd4T1pXMUJ6Y28zTk1tc1NSVFFNdHRadjNLVjgzS08=
+executor: "KubernetesExecutor"
